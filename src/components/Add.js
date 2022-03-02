@@ -67,8 +67,8 @@ const Add = () => {
                     </form>
                 </Container>
             </Modal>
+
         </>
     );
 }
-
 export default Add;
