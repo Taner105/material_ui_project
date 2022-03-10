@@ -37,6 +37,9 @@ const App = () => {
           <Rightbar />
         </Grid>
       </Grid>
+      <Grid>
+        <Add />
+      </Grid>
       <Add />
     </div>
   );
